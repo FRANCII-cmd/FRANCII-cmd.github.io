@@ -1,0 +1,18 @@
+body, html {
+	background-color: midnightblue;
+	color: white;
+
+}
+
+h1 {
+	font-size: 50px;
+}
+
+h2 {
+	font-size: 30px;
+}
+
+.main {
+	padding-left: 10vw;
+	padding-top: 35vh;
+}
